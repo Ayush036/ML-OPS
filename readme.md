@@ -9,3 +9,7 @@ dvc add data _given/winequality.csv
 
 git add .
 git commit -m "first commit"
+
+make new repo
+
+push the code
