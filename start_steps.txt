@@ -13,3 +13,18 @@ git commit -m "first commit"
 make new repo
 
 push the code
+
+
+in src
+1. get data from the remote source could be s3 or gdrive
+2. load data into your current working environment in our case data/raw
+3. split data in train test and then store it in data/processed
+4. train and evaluation then store the metrics and scores in json files
+5. use dvc repro at every step
+
+
+in testing
+create tox.ini
+create tests - init, conftest.py , test_config.py
+create setup.py file
+then open tox.ini and write the code to create the virtual environment
