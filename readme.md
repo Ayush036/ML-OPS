@@ -1,15 +1,19 @@
-new environment \
-install libraries
+[comment]: <> (new environment )
 
-create template of project 
+[comment]: <> (install libraries)
 
-git init\
-dvc init\
-dvc add data _given/winequality.csv
+[comment]: <> (create template of project )
 
-git add .
-git commit -m "first commit"
+[comment]: <> (git init)
 
-make new repo
+[comment]: <> (dvc init)
 
-push the code
+[comment]: <> (dvc add data _given/winequality.csv)
+
+[comment]: <> (git add .)
+
+[comment]: <> (git commit -m "first commit")
+
+[comment]: <> (make new repo)
+
+[comment]: <> (push the code)
