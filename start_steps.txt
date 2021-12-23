@@ -28,3 +28,4 @@ create tox.ini
 create tests - init, conftest.py , test_config.py
 create setup.py file
 then open tox.ini and write the code to create the virtual environment
+tox aims to automate and standardize testing in python
